@@ -1,6 +1,7 @@
 # learnings-summarizer
 
-A skill for extracting and documenting reusable knowledge from completed tasks.
+An LLM skill for extracting and documenting reusable knowledge from completed
+tasks.
 
 ## Overview
 
